@@ -1,0 +1,1 @@
+draw_text( x+80, y, string_format(seconds, 2, 0) + "s" );

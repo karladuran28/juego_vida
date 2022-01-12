@@ -1,0 +1,1 @@
+desc_op1 = "[ ] Llamar a la policía inmediatamente";

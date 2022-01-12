@@ -1,0 +1,1 @@
+desc_evento1 = "Te encuentras jugando en tu habitación de madrugada";

@@ -1,0 +1,1 @@
+desc_evento2 = "y escuchas que un plato de la cocina se quiebra, qué haces?";
