@@ -33,6 +33,7 @@
     {"id":{"name":"spr_anillo4","path":"sprites/spr_anillo4/spr_anillo4.yy",},"order":4,},
     {"id":{"name":"obj_anillo4","path":"objects/obj_anillo4/obj_anillo4.yy",},"order":3,},
     {"id":{"name":"spr_p1","path":"sprites/spr_p1/spr_p1.yy",},"order":6,},
+    {"id":{"name":"spr_tableroMejorado","path":"sprites/spr_tableroMejorado/spr_tableroMejorado.yy",},"order":11,},
     {"id":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},"order":6,},
     {"id":{"name":"spr_main_font","path":"fonts/spr_main_font/spr_main_font.yy",},"order":1,},
     {"id":{"name":"RoomEvento","path":"rooms/RoomEvento/RoomEvento.yy",},"order":1,},
