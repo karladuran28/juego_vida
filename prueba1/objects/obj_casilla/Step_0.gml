@@ -27,6 +27,12 @@ if(keyboard_check_pressed(vk_space) == true)
 	/// @DnDArgument : "option" "colorBien, colorMal"
 	eleccion = choose(colorBien, colorMal);
 
+	/// @DnDAction : YoYo Games.Instances.Sprite_Image_Alpha
+	/// @DnDVersion : 1
+	/// @DnDHash : 15F93BCA
+	/// @DnDParent : 23424C51
+	image_alpha = 1;
+
 	/// @DnDAction : YoYo Games.Instances.Color_Sprite
 	/// @DnDVersion : 1
 	/// @DnDHash : 2F6B20CE

@@ -8,6 +8,7 @@
     {"id":{"name":"spr_anillo","path":"sprites/spr_anillo/spr_anillo.yy",},"order":1,},
     {"id":{"name":"obj_continue","path":"objects/obj_continue/obj_continue.yy",},"order":2,},
     {"id":{"name":"obj_cronometro","path":"objects/obj_cronometro/obj_cronometro.yy",},"order":6,},
+    {"id":{"name":"spr_tablerov3","path":"sprites/spr_tablerov3/spr_tablerov3.yy",},"order":13,},
     {"id":{"name":"spr_op_hover","path":"sprites/spr_op_hover/spr_op_hover.yy",},"order":11,},
     {"id":{"name":"spr_play","path":"sprites/spr_play/spr_play.yy",},"order":8,},
     {"id":{"name":"spr_marco","path":"sprites/spr_marco/spr_marco.yy",},"order":0,},
